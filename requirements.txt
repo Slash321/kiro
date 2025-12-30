@@ -1,0 +1,19 @@
+# Kiro IDE Bypass Tool - Python Dependencies
+
+# Terminal colors and formatting
+colorama>=0.4.6
+
+# Note: Standard library modules used (no additional requirements):
+# - os
+# - sys
+# - json
+# - uuid
+# - hashlib
+# - shutil
+# - sqlite3
+# - tempfile
+# - re
+# - platform
+# - subprocess
+# - configparser
+# - datetime
